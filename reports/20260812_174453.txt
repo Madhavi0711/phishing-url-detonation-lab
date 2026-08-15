@@ -1,0 +1,27 @@
+
+PHISHING URL DETONATION REPORT
+==============================
+
+Analysis Time UTC:
+20260812_174453
+
+Original URL:
+https://www.securline.cloud/
+
+Final URL:
+https://www.securline.cloud/
+
+Domain:
+www.securline.cloud
+
+HTTP Status:
+200
+
+Page Title:
+www.securline.cloud
+
+Screenshot:
+20260812_174453.png
+
+Result:
+Browser successfully loaded the URL.

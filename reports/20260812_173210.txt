@@ -1,0 +1,27 @@
+
+PHISHING URL DETONATION REPORT
+==============================
+
+Analysis Time UTC:
+20260812_173210
+
+Original URL:
+https://example.com
+
+Final URL:
+https://example.com/
+
+Domain:
+example.com
+
+HTTP Status:
+200
+
+Page Title:
+Example Domain
+
+Screenshot:
+20260812_173210.png
+
+Result:
+Browser successfully loaded the URL.
