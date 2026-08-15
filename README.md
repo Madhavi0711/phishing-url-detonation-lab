@@ -75,3 +75,17 @@ Automation: Playwright
 Network Mode: NAT
 
 A VMware snapshot was created before setting up the lab to provide a rollback point.
+
+How It Works
+    A URL is submitted to the sandbox.
+    Docker creates a disposable container.
+    Playwright launches Chromium in headless mode.
+    Chromium navigates to the supplied URL.
+    The script records:
+    Original URL
+    HTTP status
+    Final URL
+    Page title
+    A screenshot of the resulting page is captured.
+    A text-based investigation report is generated.
+    The Docker container is removed after execution.
